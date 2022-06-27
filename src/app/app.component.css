@@ -1,0 +1,22 @@
+.fcard{
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 40px;
+
+
+}
+
+.cont{
+margin-left: 10%;
+}
+
+
+.head
+{
+  text-align: center;
+}
+
+input.ng-invalid.ng-touched
+{
+  border: 1px solid red;
+}
